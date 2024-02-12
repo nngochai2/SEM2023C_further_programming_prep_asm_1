@@ -1,4 +1,4 @@
-# further_programming_prep_asm_1
+# Further Programming (SEM 2023C) - Assignment 1 - Shopping Application - Nguyen Ngoc Hai (s3978281)
 This is the assignment 1 from the assignment 1 of the Semester 2023C. The requirement was to make a text-based shopping application:
 
 **You are developing an online shopping service. This service allows users to browse, search, view, and buy products. Each product contains the following information:**
